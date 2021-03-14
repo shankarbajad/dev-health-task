@@ -1,0 +1,32 @@
+.left-setting h3, .left-setting h4{
+    margin: 0;
+}
+
+.left-setting ul{
+    width: 100%;
+}
+
+.header-content .ui-header{  
+    margin: 0;
+}
+
+.header-content p{
+    margin-top: 3px;
+}
+
+.grid-row{
+    display: inline-flex;
+    width: 100%;
+    justify-content: inherit;
+}
+
+.flash-msg{
+    position: fixed;
+    top: 27px;
+    right: 0;
+    background: #099209;
+    z-index: 99;
+    color: #fff !important;
+    padding: 7px 15px;
+    border-radius: 5px;
+}
